@@ -1,0 +1,11 @@
+{
+  "name": "@rtbenfield/tsconfig-workers",
+  "version": "0.0.2",
+  "description": "TSConfig bases for Cloudflare Workers",
+  "author": "Tyler Benfield <tyler@tylerbenfield.me>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rtbenfield/tsconfig-workers.git"
+  }
+}
