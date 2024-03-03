@@ -5,6 +5,8 @@
     "noEmit": true,
     "module": "ES2022",
     "moduleResolution": "Bundler",
+    // match workerd runtime key in package.json#exports of dependencies
+    "customConditions": ["workerd"],
     "lib": ["ES2023"],
     "target": "ES2022",
 

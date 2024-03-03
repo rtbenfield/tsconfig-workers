@@ -1,6 +1,6 @@
 {
   "name": "@rtbenfield/tsconfig-workers",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "TSConfig bases for Cloudflare Workers",
   "author": "Tyler Benfield <tyler@tylerbenfield.me>",
   "license": "MIT",
